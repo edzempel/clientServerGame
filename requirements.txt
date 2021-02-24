@@ -1,0 +1,6 @@
+
+pygame
+progressbar2
+python-dateutil
+passlib
+
